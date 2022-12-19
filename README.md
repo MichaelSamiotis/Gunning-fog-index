@@ -7,7 +7,11 @@ Calculation
 The Gunning fog index is calculated with the following algorithm:
 
 1 Select a passage (such as one or more full paragraphs) of around 100 words. Do not omit any sentences;
+
 2) Determine the average sentence length. (Divide the number of words by the number of sentences.);
+
 3) Count the "complex" words consisting of three or more syllables. Do not include proper nouns, familiar jargon, or compound words. Do not include common suffixes (such as -es, -ed, or -ing) as a syllable;
+
 4) Add the average sentence length and the percentage of complex words; and
+
 5) Multiply the result by 0.4.
