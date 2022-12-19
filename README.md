@@ -6,7 +6,7 @@ The fog index is commonly used to confirm that text can be read easily by the in
 Calculation
 The Gunning fog index is calculated with the following algorithm:
 
-1 Select a passage (such as one or more full paragraphs) of around 100 words. Do not omit any sentences;
+1) Select a passage (such as one or more full paragraphs) of around 100 words. Do not omit any sentences;
 
 2) Determine the average sentence length. (Divide the number of words by the number of sentences.);
 
